@@ -2,4 +2,4 @@
 
 I can be found here:
 
- - <a rel="me" href="https://octodon.social/@fd">Mastodon</a>
+ - <a rel="me" href="https://hachyderm.io/@simonmenke">Mastodon</a>
